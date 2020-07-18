@@ -24,6 +24,10 @@ default: &default
 development:
   <<: *default
   database: tutorial_db
+  host: localhost
+  encoding: utf8
+  reconnect: false
+  username: Tomoya
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
