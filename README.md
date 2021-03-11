@@ -1,6 +1,6 @@
 # Railsチュートリアルの実装
 
-Herokuにデプロイ
+Herokuにデプロイ  
 https://tutorial-20200717.herokuapp.com/
 
 ```
